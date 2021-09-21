@@ -12,6 +12,9 @@ Website Main Page:
 Login Page:
 ![image](https://user-images.githubusercontent.com/74499053/134210616-0d586bff-53be-4878-9de9-71b537cd1e2a.png)
 
+Sign Up Page:
+![image](https://user-images.githubusercontent.com/74499053/134211631-4f96790f-c588-41c8-840a-34a39aff0038.png)
+
 Home Page:
 ![image](https://user-images.githubusercontent.com/74499053/134210662-2d67faab-81ac-45ef-bd20-e8862e82b3cc.png)
 
@@ -24,6 +27,8 @@ Seat Selection Page:
 Account Details Page:
 ![image](https://user-images.githubusercontent.com/74499053/134210824-dcad1701-4022-48d9-8c50-debbdee22ca8.png)
 
+About Us:
+![image](https://user-images.githubusercontent.com/74499053/134211526-aef5424c-9776-43cf-8771-153d9b6c972a.png)
 
 Scheduling a flight:
 Scheduling a flight is done from the backend admin page. Just open https:\\[url]\admin and add new flight details to 'flightdetailss' model.

@@ -28,7 +28,7 @@ Account Details Page:
 ![image](https://user-images.githubusercontent.com/74499053/134210824-dcad1701-4022-48d9-8c50-debbdee22ca8.png)
 
 About Us Page:
-![image](https://user-images.githubusercontent.com/74499053/134211526-aef5424c-9776-43cf-8771-153d9b6c972a.png)
+![image](https://user-images.githubusercontent.com/74499053/134211882-688f338f-5dc9-4851-b782-f0618dc33e0c.png)
 
 Scheduling a flight:
 Scheduling a flight is done from the backend admin page. Just open https:\\[url]\admin and add new flight details to 'flightdetailss' model.

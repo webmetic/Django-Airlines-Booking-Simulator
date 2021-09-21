@@ -27,7 +27,7 @@ Seat Selection Page:
 Account Details Page:
 ![image](https://user-images.githubusercontent.com/74499053/134210824-dcad1701-4022-48d9-8c50-debbdee22ca8.png)
 
-About Us:
+About Us Page:
 ![image](https://user-images.githubusercontent.com/74499053/134211526-aef5424c-9776-43cf-8771-153d9b6c972a.png)
 
 Scheduling a flight:

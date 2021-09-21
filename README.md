@@ -29,4 +29,4 @@ Scheduling a flight:
 Scheduling a flight is done from the backend admin page. Just open https:\\[url]\admin and add new flight details to 'flightdetailss' model.
 
 Admin Page:
-![image](https://user-images.githubusercontent.com/74499053/134211018-3afb27f9-e1ea-4e6d-8a2a-d4cc1dd79a54.png)
+![image](https://user-images.githubusercontent.com/74499053/134211372-48c7b397-520a-4cdf-b783-395546f0909f.png)
